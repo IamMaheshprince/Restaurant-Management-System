@@ -50,4 +50,3 @@ Contributions are welcome! If you have ideas for improvements or new features, f
 ## Contact
 For questions or support, please contact:
 - **Email**: kasturimaheshbabu127@gmail.com
-- - **GitHub**: https://github.com/IamMaheshprince/Restaurant-Management-System
